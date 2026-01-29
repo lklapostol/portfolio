@@ -1,4 +1,4 @@
-##SAMPLE
+SAMPLE
 
 ## Hi, I'm Lloyd 👋
 
