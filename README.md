@@ -1,15 +1,13 @@
-# Todo App
+## Hi, I'm Lloyd 👋
 
-A simple todo app built with React.
+I'm a junior developer focused on web apps.
 
-## Features
-- Add / delete tasks
-- Mark as done
-- Local storage
-
-## Tech Stack
+### Tech Stack
+- JavaScript
 - React
-- CSS
+- Node.js
 
-## Demo
-https://your-demo-link.com
+### Projects
+- Todo App
+- Inventory System
+- Payroll App
